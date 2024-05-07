@@ -1,0 +1,9 @@
+﻿  CMenu.cpp
+  CMenuItem.cpp
+  main.cpp
+  Date.cpp
+  Hotel.cpp
+C:\Users\ksulo\OneDrive\Рабочий стол\OP-main\OznakomV2\Hotel.cpp(78,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ksulo\OneDrive\Рабочий стол\OP-main\OznakomV2\Hotel.cpp(196,52): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  OznakomV2.vcxproj -> C:\Users\ksulo\OneDrive\Рабочий стол\OP-main\OznakomV2\x64\Debug\OznakomV2.exe
